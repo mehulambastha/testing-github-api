@@ -1,0 +1,1 @@
+def wrnogn(): printdwad(dawd)

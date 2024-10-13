@@ -1,1 +1,1 @@
-const testFUNC=()=>{consolge.log('DATA GIVEN')} testFUNC()
+some new data non ts
